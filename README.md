@@ -22,13 +22,9 @@ I customize things until they look like they belong on my desktop.
 
 ---
 
-## 🛠️ Tools I mess with
-Linux • Windows • Git • VS Code • Terminal customization • vibes
-
----
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=deadduck-09&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deadduck-09)
 
 ---
 
