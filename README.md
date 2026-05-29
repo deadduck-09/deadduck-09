@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I’m Gigi 👾
 
-<!--
-**deadduck-09/deadduck-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don’t really build software.
+I customize things until they look like they belong on my desktop.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+- 🎓 Student
+- 🎨 I tweak UI, themes, and configs more than I “code”
+- 🪟 Windows rice enthusiast
+- 🐧 Linux setup enjoyer
+- 🧩 If it looks clean, I probably spent 3 hours on it
+
+---
+
+## 🖼️ What I do here
+- Wallpaper collections (because default wallpapers are illegal)
+- Linux / Windows rice configs
+- Dotfiles and setup tweaks
+- Occasional “why did I change this” moments
+
+---
+
+## 🛠️ Tools I mess with
+Linux • Windows • Git • VS Code • Terminal customization • vibes
+
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧷 Philosophy
+“If it looks work, dont ask how?”
