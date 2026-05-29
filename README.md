@@ -3,7 +3,7 @@
 I don’t really build software.
 I customize things until they look like they belong on my desktop.
 ---
-If you see without my headphone send help 
+If you see me without headphones, send help.
 ---
 
 ---
@@ -17,8 +17,6 @@ If you see without my headphone send help
 - 🎓 Student  
 - 🎨 I customize UI, wallpapers, and setups  
 - 🪟 Windows rice + Linux tweaking  
-- 🧩 I break things just to understand them  
-- ☕ Running on caffeine + bad decisions  
 
     </td>
     <td width="40%" align="right">
