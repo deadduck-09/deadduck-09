@@ -28,7 +28,7 @@ Linux • Windows • Git • VS Code • Terminal customization • vibes
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=deadduck-09&show_icons=true&theme=tokyonight)
 
 ---
 
