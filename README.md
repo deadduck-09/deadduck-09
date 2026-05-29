@@ -10,7 +10,7 @@ If you see without my headphone send help
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="80%">
 
 ## 👾 About me
 
@@ -25,7 +25,6 @@ If you see without my headphone send help
 
 <img src="./lol-anime.gif" width="220"/>
 
-    </td>
   </tr>
 </table>
 
