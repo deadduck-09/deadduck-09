@@ -2,7 +2,9 @@
 
 I don’t really build software.
 I customize things until they look like they belong on my desktop.
+---
 If you see without my headphone send help 
+---
 
 ---
 
@@ -10,7 +12,7 @@ If you see without my headphone send help
 - 🎓 Student
 - 🪟 Windows rice enthusiast
 - 🧩 If it looks clean, I probably spent 3 hours on it
-- "I use Arch BTW"
+- ✌️"I use Arch BTW"
 
 ---
 
