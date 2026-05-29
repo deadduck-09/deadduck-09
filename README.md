@@ -8,11 +8,26 @@ If you see without my headphone send help
 
 ---
 
-## 🧠 About me
-- 🎓 Student
-- 🪟 Windows rice enthusiast
-- 🧩 If it looks clean, I probably spent 3 hours on it
-- ✌️"I use Arch BTW"
+<table>
+  <tr>
+    <td width="60%">
+
+## 👾 About me
+
+- 🎓 Student  
+- 🎨 I customize UI, wallpapers, and setups  
+- 🪟 Windows rice + Linux tweaking  
+- 🧩 I break things just to understand them  
+- ☕ Running on caffeine + bad decisions  
+
+    </td>
+    <td width="40%" align="right">
+
+<img src="./lol-anime.gif" width="220"/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
