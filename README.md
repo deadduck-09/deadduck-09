@@ -8,8 +8,6 @@ If you see me without headphones, send help.
 
 ---
 
-<table>
-    <td width="80%">
 
 ## 👾 About me
 
@@ -17,12 +15,9 @@ If you see me without headphones, send help.
 - 🎨 I customize UI, wallpapers, and setups  
 - 🪟 Windows rice + Linux tweaking  
 
-    </td>
-    <td width="40%" align="right">
+ 
+<img src="./lol-anime.gif" width="220" align="right">
 
-<img src="./lol-anime.gif" width="220"/>
-
-</table>
 
 ---
 
