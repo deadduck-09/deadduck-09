@@ -9,7 +9,6 @@ If you see me without headphones, send help.
 ---
 
 <table>
-  <tr>
     <td width="80%">
 
 ## 👾 About me
@@ -23,7 +22,6 @@ If you see me without headphones, send help.
 
 <img src="./lol-anime.gif" width="220"/>
 
-  </tr>
 </table>
 
 ---
@@ -41,4 +39,4 @@ If you see me without headphones, send help.
 ---
 
 ## 🧷 Philosophy
-“If it looks work, dont ask how?”
+“If it looks good, don’t ask how it works.”
