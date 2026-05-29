@@ -2,23 +2,21 @@
 
 I don’t really build software.
 I customize things until they look like they belong on my desktop.
+If you see without my headphone send help 
 
 ---
 
 ## 🧠 About me
 - 🎓 Student
-- 🎨 I tweak UI, themes, and configs more than I “code”
 - 🪟 Windows rice enthusiast
-- 🐧 Linux setup enjoyer
 - 🧩 If it looks clean, I probably spent 3 hours on it
+- "I use Arch BTW"
 
 ---
 
 ## 🖼️ What I do here
 - Wallpaper collections (because default wallpapers are illegal)
 - Linux / Windows rice configs
-- Dotfiles and setup tweaks
-- Occasional “why did I change this” moments
 
 ---
 
