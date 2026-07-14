@@ -1,6 +1,6 @@
 # Hey, I’m Gigi 👾
 
-I don’t really build software.
+I build desktop experiences more than software.
 I customize things until they look like they belong on my desktop.
 ---
 If you see me without headphones, send help.
