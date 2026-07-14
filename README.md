@@ -36,7 +36,7 @@ If you see me without headphones, send help.
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deadduck-09)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deadduck-09&show_icons=true&theme=nord&hide_border=true&rank_icon=github)
 ---
 
 ## 🧷 Philosophy
